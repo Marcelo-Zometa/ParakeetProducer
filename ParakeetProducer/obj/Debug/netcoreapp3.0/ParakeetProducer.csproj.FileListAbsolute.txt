@@ -1,0 +1,11 @@
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.exe
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.deps.json
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.runtimeconfig.json
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.runtimeconfig.dev.json
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.dll
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\bin\Debug\netcoreapp3.0\ParakeetProducer.pdb
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\obj\Debug\netcoreapp3.0\ParakeetProducer.csprojAssemblyReference.cache
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\obj\Debug\netcoreapp3.0\ParakeetProducer.AssemblyInfoInputs.cache
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\obj\Debug\netcoreapp3.0\ParakeetProducer.AssemblyInfo.cs
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\obj\Debug\netcoreapp3.0\ParakeetProducer.dll
+C:\Users\marcelo.zometapaniag\source\repos\ParakeetProducer\ParakeetProducer\obj\Debug\netcoreapp3.0\ParakeetProducer.pdb
