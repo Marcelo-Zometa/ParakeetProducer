@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcelo.zometapaniag\\source\\repos\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj": {}
+    "C:\\Users\\marcelo.zometapaniag\\Desktop\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcelo.zometapaniag\\source\\repos\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj": {
+    "C:\\Users\\marcelo.zometapaniag\\Desktop\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcelo.zometapaniag\\source\\repos\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj",
+        "projectUniqueName": "C:\\Users\\marcelo.zometapaniag\\Desktop\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj",
         "projectName": "ParakeetProducer",
-        "projectPath": "C:\\Users\\marcelo.zometapaniag\\source\\repos\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj",
+        "projectPath": "C:\\Users\\marcelo.zometapaniag\\Desktop\\ParakeetProducer\\ParakeetProducer\\ParakeetProducer.csproj",
         "packagesPath": "C:\\Users\\marcelo.zometapaniag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcelo.zometapaniag\\source\\repos\\ParakeetProducer\\ParakeetProducer\\obj\\",
+        "outputPath": "C:\\Users\\marcelo.zometapaniag\\Desktop\\ParakeetProducer\\ParakeetProducer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Refit": {
+              "target": "Package",
+              "version": "[5.0.23, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
