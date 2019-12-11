@@ -1,0 +1,2 @@
+# ParakeetProducer
+Write an app that takes in the following three arguments:  1) URL to trigram parsing service  2) starting number  3) batch size  Download a book from gutenberg with the following format  http://www.gutenberg.org/cache/epub/{num}/pg{num}.txt (Links to an external site.)  Post the first line of the book as the title, the next 10,000 characters as the body to the trigram parser API.
